@@ -134,15 +134,11 @@ if __name__ == "__main__":
         elif"isro" in query:
             webbrowser.open("isro.gov.in")
 
-        elif"worst hospital in the world" in query:
-            webbrowser.open("sghshospitals.com")
 
         elif"open my certificates" in query:
             codepath = "C:\\Users\\Lenovo\\Desktop\\YOUTUBE"
             os.startfile(codepath)
 
-        elif"open manav mangal smart school" in query:
-            webbrowser.open("edusecure.in/ManavMangalMohali")
         
 
 
